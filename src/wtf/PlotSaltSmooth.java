@@ -1,5 +1,5 @@
 package wtf;
-
+// by John Hughes and Ruth Wittek
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
